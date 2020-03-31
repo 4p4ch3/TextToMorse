@@ -6,5 +6,6 @@ TextToMorse converts text to morse code in audio
 `pip install playsound`
 
 OSX users may also need to install `PyObjC`:
+
 `pip install -U PyObjC`
 
