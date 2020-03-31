@@ -1,6 +1,6 @@
 # TextToMorse
 
-TextToMorse converts text to morse code in audio
+TextToMorse converts text to morse code in audio format
 
 ## Dependencies
 `pip install playsound`
